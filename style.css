@@ -1,0 +1,16 @@
+#mygtukai{
+  display: block;
+  justify-content: center;
+padding:  100px
+}
+h2{
+  color: green;
+}
+#skaic{
+  display: flex;
+  justify-content: center;
+
+}
+button{
+  font-size: 50px;
+}
